@@ -4,7 +4,7 @@ layout: home
 
 # About
 
-I'm a software engineer and former web development instructor in Seattle WA. I currently work for [Concur Technologies](https://www.concur.com/){:target="_blank"} in Bellevue, WA.
+I'm a software engineer and former web development instructor in Seattle WA. I work for [Concur Technologies](https://www.concur.com/){:target="_blank"} in Bellevue, WA.
 
 ### Current Projects
 
@@ -13,3 +13,7 @@ I'm currently working on side projects in Wordpress, Node/Express, and React. Ad
 ### Contact
 
 I can be reached by email at [bhague1281@gmail.com](mailto:bhague1281@gmail.com)
+
+<br>
+
+<small>All pictures are by Brian, unless otherwise noted</small>
