@@ -287,7 +287,7 @@ canvas {
   display: inline-block;
   height: auto;
   background-size: 100%;
-  margin: 0 auto;
+  margin: 20px;
   position: relative;
   font: 0/0 verdana;
   color: transparent;
@@ -390,11 +390,6 @@ canvas {
 
 .main-info {
   color: $white;
-  h1 {
-    font-weight: bold;
-    text-transform: uppercase;
-    letter-spacing: 1px;
-  }
   h2 {
     font-size: 21px;
     line-height: 30px;

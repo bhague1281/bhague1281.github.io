@@ -1,10 +1,15 @@
 ---
 layout: home
 ---
-# About Theme
 
-This theme is Jekyll port of [vangeltzo.com](http://vangeltzo.com/) (by [Vangelis Tzortzis](https://github.com/srekoble)).
+# About
 
-To learn how to install and use this theme check out the [installation guide](http://taylantatli.me/Halve/halve-theme/) for more information.
+I'm a software engineer and former web development instructor in Seattle WA. I currently work for [Concur Technologies](https://www.concur.com/){:target="_blank"} in Bellevue, WA.
 
-If you have a question, find a bug, or just want to say hi, please open an [issue on GitHub](https://github.com/TaylanTatli/Halve/issues/new).
+### Current Projects
+
+I'm currently working on side projects in Wordpress, Node/Express, and React. Additionally, I'm working on videos relating to web development, hiking, and travel. I love collaborating with people about these passions, so feel free to contact me if you'd like to talk.
+
+### Contact
+
+I can be reached by email at [bhague1281@gmail.com](mailto:bhague1281@gmail.com)
