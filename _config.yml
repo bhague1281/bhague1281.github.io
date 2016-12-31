@@ -26,7 +26,7 @@ sass:
   style:            compressed
 
 # Google Analytics
-#google-analytics: UA-XXXXX-Y
+google-analytics:   UA-60353102-1
 
 # Social Links
 email:              bhague1281@gmail.com
