@@ -13,7 +13,6 @@
 
 html {
   line-height: 1;
-  overflow: hidden;
   &.no-scroll {
     overflow: hidden;
   }
@@ -103,7 +102,7 @@ h3,
 h4,
 h5,
 h6 {
-  margin: 2rem 0 0.5rem;
+  margin: 2.5rem 0 0.5rem;
   font-family: $base-font;
 }
 

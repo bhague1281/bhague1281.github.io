@@ -4,16 +4,31 @@ layout: home
 
 # About
 
-I'm a software engineer and former web development instructor in Seattle WA. I work for [Concur Technologies](https://www.concur.com/){:target="_blank"} in Bellevue, WA.
+Brian is a software engineer and web development instructor in Seattle WA.
 
-### Current Projects
+### Current Work
 
-I'm currently working on side projects in Wordpress, Node/Express, and React. Additionally, I'm working on videos relating to web development, hiking, and travel. I love collaborating with people about these passions, so feel free to contact me if you'd like to talk.
+#### [SAP Concur](https://www.concur.com/){:target="_blank"}
+<small>Software Design Engineer II - Bellevue, WA</small>
 
-### Contact
+Engineering microservices and user interfaces for the Concur Platform.
 
-I can be reached by email at [bhague1281@gmail.com](mailto:bhague1281@gmail.com)
+#### [Republic Development and Design](https://wetherepublic.io/){:target="_blank"}
+<small>Directory of Technology - Remote</small>
+
+Designing and implementing solutions for businesses.
+
+#### [University of Washington](https://www.pce.uw.edu/){:target="_blank"}
+<small>Instructor - Seattle, WA</small>
+
+Teaching JavaScript courses and serving as a subject matter expert (SME) for the UW Continuum College.
 
 <br>
 
-<small>All pictures are by Brian, unless otherwise noted</small>
+---
+
+### Current Projects
+
+#### [Syndri Training](https://syndritraining.com/){:target="_blank"}
+Creating concise and practical online courses for web developers.
+
