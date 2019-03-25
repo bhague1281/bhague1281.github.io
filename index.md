@@ -12,6 +12,8 @@ Professionally, Brian is...
 - based in Seattle, WA
 - working remotely most of the time
 
+<br />
+
 While not at work, Brian is...
 
 - the dog dad to Champion the labradoodle ([@cultofchamp](https://www.instagram.com/cultofchamp/){:target="_blank"})
