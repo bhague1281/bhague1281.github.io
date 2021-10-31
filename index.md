@@ -7,10 +7,8 @@ layout: home
 Professionally, Brian is... 
 
 - a senior software engineer
-- a technical lead
 - a web development instructor
-- based in Seattle, WA
-- working remotely most of the time
+- working remotely from Portland, OR
 
 <br />
 
@@ -19,19 +17,14 @@ While not at work, Brian is...
 - the dog dad to Champion the labradoodle ([@cultofchamp](https://www.instagram.com/cultofchamp/){:target="_blank"})
 - [listening](https://www.youtube.com/watch?v=XhflnGpsvsQ){:target="_blank"} [to](https://www.youtube.com/watch?v=qkk5wViJo-I){:target="_blank"} [all](https://www.youtube.com/watch?v=3Yd4GG3bed0){:target="_blank"} [kinds](https://www.youtube.com/watch?v=05v4nfUmBYI){:target="_blank"} [of](https://www.youtube.com/watch?v=2YGd3UFSfKo){:target="_blank"} [music](https://www.youtube.com/watch?v=a9wnbPUgq6c){:target="_blank"} [and](https://www.youtube.com/watch?v=FzfKn-hlZwo){:target="_blank"} [trying](https://www.youtube.com/watch?v=08qd-vsHbaY){:target="_blank"} [to](https://www.youtube.com/watch?v=vjU9_MIMYPs){:target="_blank"} [discover](https://www.youtube.com/watch?v=9sfYpolGCu8){:target="_blank"} [more](https://www.youtube.com/watch?v=fbNDJRwXKGc){:target="_blank"}
 - cooking and occasionally baking
-- taking pictures and hiking (see Instagram)
+- spending time outdoors
 
 ### Current Work
 
 #### [SAP Concur](https://www.concur.com/){:target="_blank"}
-<small>Senior Software Engineer/Technical Lead - Bellevue, WA</small>
+<small>Senior Software Engineer - Bellevue, WA</small>
 
-Technical lead for Concur NextGen Expense UI
-
-#### [Republic Development and Design](https://wetherepublic.io/){:target="_blank"}
-<small>Directory of Technology - Remote</small>
-
-Designing and engineering solutions for businesses.
+Senior Software Engineer for Concur NextGen Expense UI. Working on front-end/mid-tier performance and front-end architecture.
 
 #### [University of Washington](https://www.pce.uw.edu/){:target="_blank"}
 <small>Instructor/Curriculum Developer - Seattle, WA</small>
@@ -46,9 +39,6 @@ Teaching JavaScript courses, designing course curriculums, and serving as a subj
 
 #### [Syndri Training](https://syndritraining.com/){:target="_blank"}
 Creating concise and practical online courses for web developers.
-
-#### [Cult of Champ](https://www.instagram.com/cultofchamp/){:target="_blank"}
-Pictures of my dog
 
 <br />
 
