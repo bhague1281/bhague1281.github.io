@@ -37,7 +37,6 @@ github:             bhague1281
 #stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
 linkedin:           brianahague
 #xing:              username
-instagram:          brianhague
 #lastfm:            username
 #tumblr:            username
 #pinterest:         username
@@ -48,12 +47,10 @@ instagram:          brianhague
 #soundcloud:        username
 #weibo:             username
 #flickr:            username
-codepen:            bhague1281
 #keybase:           username
 #xmpp:              username@server.com
 #hackernews:        username
 #behance:           username
-medium:             "@brianhague"
 
 # Gems
 gems:
