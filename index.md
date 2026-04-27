@@ -6,9 +6,9 @@ layout: home
 
 Professionally, Brian is... 
 
-- a senior software engineer
+- a principal software engineer
 - a web development instructor
-- working remotely from Portland, OR
+- working remotely from Seattle, WA
 
 <br />
 
@@ -21,10 +21,10 @@ While not at work, Brian is...
 
 ### Current Work
 
-#### [SAP Concur](https://www.concur.com/){:target="_blank"}
-<small>Senior Software Engineer - Bellevue, WA</small>
+#### [Atlassian](https://www.atlassian.com/){:target="_blank"}
+<small>Principal Software Engineer - Seattle, WA</small>
 
-Senior Software Engineer for Concur NextGen Expense UI. Working on front-end/mid-tier performance and front-end architecture.
+Principal Software Engineer for Atlassian's Analytics and Visualization Platform, powering Atlassian Analytics, Jira Dashboards, and Rovo insights. Working on front-end architecture, migrating legacy services to Java Spring/GraphQL, and AI adoption/tooling.
 
 #### [University of Washington](https://www.pce.uw.edu/){:target="_blank"}
 <small>Instructor/Curriculum Developer - Seattle, WA</small>
@@ -35,19 +35,7 @@ Teaching JavaScript courses, designing course curriculums, and serving as a subj
 
 ---
 
-### Current Projects
-
-#### [Syndri Training](https://syndritraining.com/){:target="_blank"}
-Creating concise and practical online courses for web developers.
-
-<br />
-
----
-
 ### FAQ
-
-#### Where are your blog posts?
-You can see them on [Medium](https://medium.com/@brianhague){:target="_blank"}
 
 #### Where is your resume?
 Please inquire at [bhague1281@gmail.com](mailto:bhague1281@gmail.com)
